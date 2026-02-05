@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Models / big files
+*.pt
+*.pb
+*.zip
+
+# Data
+*.csv
+datasets/
+data/
+
+# Build
+build/
+bin/
+
+# ROS
+log/
+*.bag
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
